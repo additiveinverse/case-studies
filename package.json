@@ -1,0 +1,35 @@
+{
+  "name": "case-studies",
+  "description": "an overview of design work",
+  "version": "0.1.0",
+  "homepage": "https://github.com/richard/case-studies",
+  "author": {
+    "name": "Richard Bailey",
+    "email": "additive.inverse@gmail.com",
+    "url": "additiveinverse.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/additiveinverse/case-studies.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/additiveinverse/case-studies/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.19"
+  },
+  "devDependencies": {
+    "grunt-build-gh-pages": "~0.0.4",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-jade": "^1.0.0",
+    "grunt-contrib-livereload": "~0.1.2",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-open": "~0.2.0",
+    "grunt-reveal-jade": "~0.0.3",
+    "matchdep": "~0.1.2"
+  },
+  "keywords": []
+}
